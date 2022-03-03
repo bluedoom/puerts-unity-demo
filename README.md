@@ -1,6 +1,6 @@
 # Puerts Unity Dev Demo
 
-该仓库由[puerts_unity_demo](https://github.com/chexiongsheng/puerts_unity_demo)精简而来，主要尝试解决开发过程中遇到的一些问题。
+该仓库由[puerts_unity_demo](https://github.com/chexiongsheng/puerts_unity_demo)精简而来，用于尝试解决开发过程中遇到的一些问题。
 # 改动
 ## 直接加载output中的js文件
 
